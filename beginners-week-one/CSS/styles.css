@@ -1,0 +1,44 @@
+body{
+  background-color: lightblue;
+color:#1D5FAB;
+font-family:helvetica;
+border:solid 10px;
+padding:50px;
+}
+
+img{
+  background-color:white;
+  margin:50px;
+  padding:30px;
+  height:25vh;
+  width:10vw;
+}
+
+div{
+  padding:20px;
+}
+
+.a{
+  color:white;
+  font-size: 20px;
+  padding-left: 480px;
+}
+
+
+#b{
+  color:beige;
+}
+
+#c{
+  color:beige;
+}
+
+#r{
+  background-color:pink;
+  height:35vh;
+}
+
+#w{
+background-color:pink;
+  height:35vh;
+}
